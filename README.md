@@ -10,14 +10,8 @@ A cinematic travel video prompt featuring a tropical beach at sunset with golden
 
 👉 [View Prompt](docs/prompt-travel-video.md)
 
----
+## 📂 Available Prompts
 
-## 🚀 More Prompts Coming Soon
-
-- Mountain Sunrise
-- City Night Cinematic
-- Desert Landscape
-
----
-
-⭐ Star this repo if you like it!
+- 🌴 [Tropical Beach Sunset](docs/prompt-travel-video.md)
+- 🏔️ [Himalayan Village](docs/himalayan-village.md)
+- 🏍️ [Mountain Adventure](docs/mountain-adventure.md)
